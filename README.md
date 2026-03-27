@@ -46,7 +46,7 @@ To become a **full-stuck web developer & WordPress Developer** and work on real-
 * Frontend: HTML, CSS, JavaScript
 * Backend: PHP (WordPress)
 * CMS: WordPress, WooCommerce
-* Tools: Git, GitHub, Chrome DevTools
+* Tools: Git, GitHub, Chrome DevTools, Visual studio code
 
 ---
 
