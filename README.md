@@ -61,7 +61,7 @@ To become a **full-stuck web developer & WordPress Developer** and work on real-
 ## 📬 Connect With Me
 
 * GitHub: https://github.com/zayedahmad80
-* Email: [](mailto:your-email@example.com)
+* Email: [mdzayed8080@gmail.com](mdzayed8080@gmail.com)
 
 ---
 
